@@ -5,7 +5,7 @@
 | 2015-08-26 | Welcome meeting          | Intro to the Internet.                | Mike Kenworthy?   |
 | 2015-09-02 | Team formation           | HTTP - Intro to markup.               | ???               |
 | TBD        | Project Leaders meeting  |                                       | N/A               |
-| 2015-09-09 | Standard meeting         | HTTP - Images, video, links.          | ???               |
+| 2015-09-09 | Standard meeting         | HTTP - Images, video, links.          | David Soller      |
 | 2015-09-16 | Standard meeting         | CSS - Intro to CSS. Colors, borders, etc. | ???           |
 | 2015-09-23 | Standard meeting         | CSS - Positioning.                    | ???               |
 | 2015-09-30 | Standard meeting         | CSS - Media queries, pseudo elements and pseudo classes. | Eli Gladman |
