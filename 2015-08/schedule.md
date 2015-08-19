@@ -2,7 +2,7 @@
 
 | Date       | Description              | Talk                                  | Speaker           |
 |------------|--------------------------|---------------------------------------|-------------------|
-| 2015-08-26 | Welcome meeting          | How the Internet Works.               | Mike Kenworthy?   |
+| 2015-08-26 | Welcome meeting          | How the Internet Works.               | Mike Kenworthy    |
 | 2015-09-02 | Team formation           | HTML - Intro to markup.               | ???               |
 | TBD        | Project Leaders meeting  |                                       | N/A               |
 | 2015-09-09 | Standard meeting         | HTML - Images, video, links.          | David Soller      |
