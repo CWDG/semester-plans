@@ -16,4 +16,6 @@
 | 2015-11-03 | Standard meeting         | Rails -`rails new`. Bootstrapping.    | ???               |
 | 2015-11-10 | Standard meeting         | Rails - Scaffold out some models. Controllers, views. | ??? |
 | 2015-11-17 | Standard meeting         | Rails - Models and relationships.     | ???               |
+| 2015-11-28 | Hackathon begins         | N/A                                   | N/A               |
+| 2015-11-29 | Hackathon ends           | N/A                                   | N/A               |
 | 2015-12-01 | Final meeting            | Project Showcase                      | Jonathan Arnett   |
