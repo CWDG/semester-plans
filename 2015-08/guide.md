@@ -20,5 +20,5 @@ Each week after the talk, the club will provide an exercise that members can do 
 ### Community
 
 This semester, we are looking to include members from the community as much as possible. There are two roles that members of the community are open to take:
-Speaker - Simply sign up to give a talk.
-Mentor - Mentors should come to a few meetings, and work with students who need help completing the exercises.
+- Speaker - Simply sign up to give a talk.
+- Mentor - Mentors should come to a few meetings, and work with students who need help completing the exercises.
