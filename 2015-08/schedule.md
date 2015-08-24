@@ -6,7 +6,7 @@
 | 2015-09-01 | Team formation           | HTML - Intro to markup.               | ???               |
 | TBD        | Project Leaders meeting  |                                       | N/A               |
 | 2015-09-08 | Standard meeting         | HTML - Images, video, links.          | David Soller      |
-| 2015-09-15 | Standard meeting         | CSS - Intro to CSS. Colors, borders, etc. | ???           |
+| 2015-09-15 | Standard meeting         | CSS - Intro to CSS. Colors, borders, etc. | Ben Keith     |
 | 2015-09-22 | Standard meeting         | CSS - Positioning.                    | ???               |
 | 2015-09-29 | Standard meeting         | CSS - Advanced CSS and preprocessors. | Eli Gladman       |
 | 2015-10-06 | Standard meeting         | JS - Basic JS. Hello world, etc.      | ???               |
