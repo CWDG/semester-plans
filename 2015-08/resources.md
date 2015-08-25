@@ -9,6 +9,13 @@
 - [Git website](https://git-scm.com)
 - [GitHub Desktop GUI client](https://desktop.github.com/)
 - [Try Git](https://try.github.io)
+- [Git-It](https://github.com/paircolumbus/Git-It)
+
+## Ruby
+- [Try Ruby](http://tryruby.org/)
+- [Ruby at Codecademy](https://www.codecademy.com/tracks/ruby)
+- [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)
+- [Ruby Koans](http://rubykoans.com/)
 
 ## HTML
 - [HTML Tutorial at Codecademy](https://www.codecademy.com/track/web/resume)
