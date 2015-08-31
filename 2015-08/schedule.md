@@ -12,7 +12,7 @@
 | 2015-10-13 | JS - Using jQuery to modify the DOM                  | [Form Validator](https://github.com/CWDG/FormValidator)           | ???               |
 | 2015-10-20 | Sinatra - Basic app. GETs and POSTs.                 |                                                                   | Rob Kinyon        |
 | 2015-10-27 | Sinatra - Views, assets. Make the app look good.     |                                                                   | ???               |
-| 2015-11-03 | Rails -`rails new`. Bootstrapping.                   |                                                                   | ???               |
+| 2015-11-03 | Rails -`rails new`. Bootstrapping.                   |                                                                   | Jay Bobo          |
 | 2015-11-10 | Rails - Scaffold out some models. Controllers, views.| [Bitly Clone](https://github.com/CWDG/BitlyClone)                 | ???               |
 | 2015-11-17 | Rails - Models and relationships.                    |                                                                   | ???               |
 | 2015-12-01 | Final meeting social                                 | Whatever you want!                                                | N/A               |
