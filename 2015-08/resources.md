@@ -18,6 +18,7 @@
 - [Ruby Koans](http://rubykoans.com/)
 
 ## HTML
+- [HTML Playground at Mozilla Thimble](https://thimble.mozilla.org/)
 - [HTML Tutorial at Codecademy](https://www.codecademy.com/track/web/resume)
 - [HTML Tutorial on HTML dog](http://www.htmldog.com/guides/html/beginner/)
 - [HTML Documentation at MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
