@@ -3,7 +3,7 @@
 | Date       | Talk                                                 | Exercise                                                          | Speaker           |
 |------------|------------------------------------------------------|-------------------------------------------------------------------|-------------------|
 | 2015-08-25 | How the Internet Works.                              | [Spoon-Knife](https://github.com/CWDG/Spoon-Knife)                | Mike Kenworthy    |
-| 2015-09-01 | HTML - Intro to markup.                              |                                                                   | Jonathan Arnett   |
+| 2015-09-01 | HTML - Intro to markup.                              | [Portfolio Site](https://github.com/CWDG/portfolio-site)          | Jonathan Arnett   |
 | 2015-09-08 | HTML - Images, video, links.                         |                                                                   | David Soller      |
 | 2015-09-15 | CSS - Intro to CSS.                                  |                                                                   | Ben Keith         |
 | 2015-09-22 | CSS - Intermediate level CSS.                        | [Do You Know the DOM?](https://github.com/CWDG/DoYouKnowTheDOM)   | Ben Keith         |
