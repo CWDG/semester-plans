@@ -14,5 +14,5 @@
 | 2015-10-27 | Sinatra - Views, assets, finalizing the app.                       |                                                                   | ???               |
 | 2015-11-03 | Rails - Introduction to Rails and `rails new`                      |                                                                   | Jay Bobo          |
 | 2015-11-10 | Rails - CRUD and MVC with Rails.                                   | [Bitly Clone](https://github.com/CWDG/BitlyClone)                 | Erin Smith        |
-| 2015-11-17 | Rails - Models and relationships.                                  |                                                                   | ???               |
+| 2015-11-17 | Rails - Models and relationships.                                  |                                                                   | Kaleb Davis               |
 | 2015-12-01 | Final meeting social                                               | Whatever you want!                                                | N/A               |
