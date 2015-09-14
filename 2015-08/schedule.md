@@ -5,7 +5,7 @@
 | 2015-08-25 | [How the Internet Works.](https://goo.gl/ZMyDFT)                           | [Spoon-Knife](https://github.com/CWDG/Spoon-Knife)                | Mike Kenworthy    |
 | 2015-09-01 | [HTML - Intro to markup.](https://github.com/j3rn/j3rn.github.io)          | [Portfolio Site](https://github.com/CWDG/portfolio-site)          | Jonathan Arnett   |
 | 2015-09-08 | [HTML - Images, video, links.](https://github.com/3ygun/portfolio-site-2)  | [Portfolio Site 2](https://github.com/CWDG/portfolio-site-2)      | David Soller      |
-| 2015-09-15 | CSS - Intro to CSS.                                                        |                                                                   | Ben Keith         |
+| 2015-09-15 | CSS - Intro to CSS.                                                        | [Stylize Me](https://github.com/CWDG/stylize-me)                  | Ben Keith         |
 | 2015-09-22 | CSS - Intermediate level CSS.                                              | [Do You Know the DOM?](https://github.com/CWDG/DoYouKnowTheDOM)   | Ben Keith         |
 | 2015-09-29 | CSS - Advanced CSS and Preprocessors.                                      | [Do You Know the DOM2](https://github.com/CWDG/DoYouKnowTheDom2)  | Eli Gladman       |
 | 2015-10-06 | JS - Basic JS. Hello world, etc.                                           |                                                                   | Jonathan Arnett   |
