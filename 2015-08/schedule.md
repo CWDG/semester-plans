@@ -8,7 +8,7 @@
 | 2015-09-15 | [CSS - Intro to CSS.](https://benlk.github.io/cwdg-talk/intro-css.html)                  | [Stylize Me](https://github.com/CWDG/stylize-me)                  | Ben Keith         |
 | 2015-09-22 | [CSS - Intermediate level CSS.](https://benlk.github.io/cwdg-talk/intermediate-css.html) | [Do You Know the DOM?](https://github.com/CWDG/DoYouKnowTheDOM)   | Ben Keith         |
 | 2015-09-29 | CSS - Advanced CSS and Preprocessors.                                                    | [Do You Know the DOM2](https://github.com/CWDG/DoYouKnowTheDom2)  | Eli Gladman       |
-| 2015-10-06 | JS - Basic JS. Hello world, etc.                                                         |                                                                   | Jonathan Arnett   |
+| 2015-10-06 | JS - Introduction to JavaScript.                                                         |                                                                   | Jonathan Arnett   |
 | 2015-10-13 | JS - Using jQuery to modify the DOM                                                      | [Form Validator](https://github.com/CWDG/FormValidator)           | Bryon Wilkins     |
 | 2015-10-20 | Sinatra - Basic app. GETs and POSTs.                                                     |                                                                   | Rob Kinyon        |
 | 2015-10-27 | Sinatra - Views, assets, finalizing the app.                                             |                                                                   | ???               |
