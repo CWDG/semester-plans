@@ -12,7 +12,7 @@
 | 2015-10-13 | [JS - Using jQuery to modify the DOM](https://goo.gl/uc6zjJ)                             | [Form Validator](https://github.com/CWDG/FormValidator)             | Bryon Wilkins     |
 | 2015-10-20 | [Sinatra - Introduction to dynamic web servers with Sinatra](http://goo.gl/4lxlst)       | [Sinatra Page View Counter](https://github.com/CWDG/sinatra-counter)| Rob Kinyon        |
 | 2015-10-27 | [Sinatra - Making a functional Sinatra App](http://j3rn.com/sinatra)                     | [Messageboard](https://github.com/CWDG/messageboard)                | Jonathan Arnett   |
-| 2015-11-03 | Rails - Introduction to Rails and `rails new`                                            |                                                                     | Jay Bobo          |
+| 2015-11-03 | Rails - Introduction to Rails and `rails new`                                            | [Weblog](https://github.com/CWDG/weblog)                            | Jay Bobo          |
 | 2015-11-10 | Rails - CRUD and MVC with Rails                                                          | [Bitly Clone](https://github.com/CWDG/BitlyClone)                   | Erin Smith        |
 | 2015-11-17 | Rails - Models and relationships                                                         |                                                                     | Kaleb Davis       |
 | 2015-12-01 | Final meeting social                                                                     | Whatever you want!                                                  | N/A               |
